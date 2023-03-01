@@ -1,0 +1,20 @@
+
+				Git // GitHub
+				
+				1) git init --> inicialize git --> to start
+								then git creates 
+									1 - staging area (temporal files)
+									2 - Local repo (file we store)
+				
+				2) git add --> git add + (file name) / git take a file to staging area (monitorizing what happen)
+				   2.1 git add . --> git add . take all the files into the staging area, before for one file now for all of them.
+				
+				3) git commit --> git commit -m "(file name)" / git take the file from statging are to Local repo and get saved.
+				
+				4) git status --> git status -s / it informs you about the status of the files such as modification, or added or not ... ect.
+				
+				5) git log --oneline --> git log --oneline / shows you all the commit were done and the names of them.
+				
+				6) git reset  --> git reset --hard (number)/ take you the preveous commit  by adding the number asigned to this commit.
+				
+						
