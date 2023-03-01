@@ -9,7 +9,8 @@
 				2) git add --> git add + (file name) / git take a file to staging area (monitorizing what happen)
 				   2.1 git add . --> git add . take all the files into the staging area, before for one file now for all of them.
 				
-				3) git commit --> git commit -m "(file name)" / git take the file from statging are to Local repo and get saved.
+				3) git commit --> git commit -m "(name the commit)" / git take the file from statging are to Local repo and get saved.
+					3.1 git commit -ma"" --> git commit -ma" " --> make a add & commit together.
 				
 				4) git status --> git status -s / it informs you about the status of the files such as modification, or added or not ... ect.
 				
@@ -17,4 +18,4 @@
 				
 				6) git reset  --> git reset --hard (number)/ take you the preveous commit  by adding the number asigned to this commit.
 				
-						
+				7) git push -u origin main: push changes from Local to GitHub.		
